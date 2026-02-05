@@ -1,6 +1,6 @@
 # LLama3-RAG application
 
-scaled down model sizes to run faster, kinda stupid now tho.
+scaled down model sizes to run faster, kinda stupid now though.
 
 spinoff of https://github.com/patchy631/ai-engineering-hub/tree/main/document-chat-rag
 
